@@ -1,0 +1,34 @@
+DK-004 "Lasting Legacy" aka "FOUR"
+======================================
+Original RTM Build: 27 September 2008
+Current Revision - R4 (May 2013)
+======================================
+28 Pokemon
+	3 Eevee (UF 55)
+	2 Leafeon (PLF 11)
+	2 Leafeon Lv X (MD 99)
+
+	3 Deerling (BW 13)
+	3 Sawsbuck (BW 14)
+
+	3 Treeko (SF 79)
+	3 Grovyle (GE 40)
+	2 Sceptile (GE 8)
+
+	1 Azelf (LA 19)
+	2 Baltoy (GE 60)
+	2 Claydol (GE 15)
+	2 Spiritomb (AR 32)
+
+18 Trainers
+	4 Roseanne's Research
+	1 N
+	2 Gust of Wind
+	2 Bebe's Search
+	2 Professor Oak's New Theory/PONT
+	2 Rare Candy
+	2 Level Max
+	2 Warp Point
+	1 Speed Stadium
+
+14 Grass Energy
