@@ -1,10 +1,13 @@
 DK-64 "Hawaiian Fire" (Alolan Ninetales GX/Heatran LvX)
 
-23 Pokemon
+Release Canidate 1
+
+21 Pokemon
 ----------------
 4 Alolan Vulpix
 4 Alolan Ninetales GX
 2 Eevee (UF-55 Energy Evolution)
+2 Flareon (AOR 13)
 2 Heatran (undecided variant)
 2 Heatran LvX
 3 Uxie (LA Set Up)
@@ -23,5 +26,6 @@ DK-64 "Hawaiian Fire" (Alolan Ninetales GX/Heatran LvX)
 3 Ultra Ball
 3 Junk Arm
 2 Skyla
+2 Switch
 =========================
 10 Water Energies
