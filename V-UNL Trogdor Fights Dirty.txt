@@ -28,6 +28,12 @@ MCharizard EX (http://shop.tcgplayer.com/pokemon/generations/m-charizard-ex) Unp
 4 Ultra Ball
 4 Trainer Mail
 3 Charizard Spirit Link
+3 Gust of Wind
+3 Broken Time Space
+2 Rosanne's Research
+1 Computer Search
+1 Kiawe
+
 
 
  Energy
