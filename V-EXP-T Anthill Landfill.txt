@@ -1,36 +1,43 @@
 "Anthill Landfill" (Durant Trashalanche)
 
-Initial Listing (Unlimited Format)
+Initial Listing (Expanded Format)
 
 An experiment to see how far trashalanche can be pushed using a durant mill. Since it relies on damage, try to include drampa gx or tauros to make use of some of the damage cards.
 
 June 6th 2017
 
- Pokemon
+15 Pokemon
 ----------------------
-4 Durant (Breakpoint)
+3 Durant (Breakpoint)
 4 Trubbish
-2 Garbodor (Breakpoint)
-2 Garbodor (SM)
-2 - 3 Drampa GX
+1 Garbodor (Breakpoint)
+3 Garbodor (SM)
+2 Drampa GX
+2 Tapu Lele
 
  Trainers
 ----------------------
-4 VS Seeker
-4 Ultra Ball
-4 Trainer Mail
-4 Max Elixir
-1 Misty's Determination
-1 Super Rod/Brock
-Revitalizer
-Need to focus on energy disruption cards to stall for mill
-Also some way to heal and reduce damage intake
-3 Magma's Secret Base
+4x N
+4x Team Flare Grunt
+4x VS Seeker
+4x Puzzle of Time
+3x Crushing Hammer
+3x Level Ball
+2x Enhanced Hammer
+2x Lysandre
+2x Delinquent
+2x Float Stone
+2x Magma's Secret Base
+1x Team Rocket's Handiwork
+1x Team Skull Grunt
+1x Field Blower
+1x Computer Search
 
 
 
- Energy
+
+12 Energy
 ----------------------
-4 DCE
+4 Psy
 4 Rainbow
-5 Grass
+4 Grass
