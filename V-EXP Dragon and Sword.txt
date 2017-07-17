@@ -11,8 +11,7 @@ June 6th 2017
 3 Honedge
 1 Doublade
 3 Aegislash (BKP?? The doubling one.)
-1 Shaymin EX
-1 Tapu Lele
+2 Tapu Lele
 1 Necrozma GX (Use if opponent is heavily stacking EX/GX)
 
 32 Trainers (32 needed)
@@ -20,18 +19,17 @@ June 6th 2017
 4 N
 4 Ultra Ball
 4 VS Seeker
-4 Trainer Mail
+3 Trainer Mail
 3 Dimension Valley
 3 Rare Candy
 1 Sycamore
 1 Colress
-1 Field Blower
-3 Choice Band
+2 Choice Band
 1 Hala
 1 Pokemon Ranger
 1 Hex Maniac
 1 Lysandre
-1 Guzma
+1 Bridgette
 1 Super Rod
 1 Wally
 
